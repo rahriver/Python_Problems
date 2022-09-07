@@ -1,0 +1,6 @@
+Mean: 3
+Median: 3
+Mode: 1
+Sum: 15
+Stdev: 1.58
+Variance: 2.5
